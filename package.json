@@ -2,7 +2,7 @@
   "name": "portfolio-website",
   "version": "1.0.0",
   "description": "Portfolio Website Template",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "tailwind": "npx tailwindcss -i ./CSS/src/input.css -o ./CSS/output/output.css --watch "
